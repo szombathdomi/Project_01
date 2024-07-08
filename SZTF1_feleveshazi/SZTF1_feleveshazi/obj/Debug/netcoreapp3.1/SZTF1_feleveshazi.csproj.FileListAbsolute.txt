@@ -1,0 +1,14 @@
+C:\Users\Domi\Desktop\SZTF1_feleveshazi\SZTF1_feleveshazi\bin\Debug\netcoreapp3.1\SZTF1_feleveshazi.exe
+C:\Users\Domi\Desktop\SZTF1_feleveshazi\SZTF1_feleveshazi\bin\Debug\netcoreapp3.1\SZTF1_feleveshazi.deps.json
+C:\Users\Domi\Desktop\SZTF1_feleveshazi\SZTF1_feleveshazi\bin\Debug\netcoreapp3.1\SZTF1_feleveshazi.runtimeconfig.json
+C:\Users\Domi\Desktop\SZTF1_feleveshazi\SZTF1_feleveshazi\bin\Debug\netcoreapp3.1\SZTF1_feleveshazi.runtimeconfig.dev.json
+C:\Users\Domi\Desktop\SZTF1_feleveshazi\SZTF1_feleveshazi\bin\Debug\netcoreapp3.1\SZTF1_feleveshazi.dll
+C:\Users\Domi\Desktop\SZTF1_feleveshazi\SZTF1_feleveshazi\bin\Debug\netcoreapp3.1\SZTF1_feleveshazi.pdb
+C:\Users\Domi\Desktop\SZTF1_feleveshazi\SZTF1_feleveshazi\obj\Debug\netcoreapp3.1\SZTF1_feleveshazi.csproj.AssemblyReference.cache
+C:\Users\Domi\Desktop\SZTF1_feleveshazi\SZTF1_feleveshazi\obj\Debug\netcoreapp3.1\SZTF1_feleveshazi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Domi\Desktop\SZTF1_feleveshazi\SZTF1_feleveshazi\obj\Debug\netcoreapp3.1\SZTF1_feleveshazi.AssemblyInfoInputs.cache
+C:\Users\Domi\Desktop\SZTF1_feleveshazi\SZTF1_feleveshazi\obj\Debug\netcoreapp3.1\SZTF1_feleveshazi.AssemblyInfo.cs
+C:\Users\Domi\Desktop\SZTF1_feleveshazi\SZTF1_feleveshazi\obj\Debug\netcoreapp3.1\SZTF1_feleveshazi.csproj.CoreCompileInputs.cache
+C:\Users\Domi\Desktop\SZTF1_feleveshazi\SZTF1_feleveshazi\obj\Debug\netcoreapp3.1\SZTF1_feleveshazi.dll
+C:\Users\Domi\Desktop\SZTF1_feleveshazi\SZTF1_feleveshazi\obj\Debug\netcoreapp3.1\SZTF1_feleveshazi.pdb
+C:\Users\Domi\Desktop\SZTF1_feleveshazi\SZTF1_feleveshazi\obj\Debug\netcoreapp3.1\SZTF1_feleveshazi.genruntimeconfig.cache

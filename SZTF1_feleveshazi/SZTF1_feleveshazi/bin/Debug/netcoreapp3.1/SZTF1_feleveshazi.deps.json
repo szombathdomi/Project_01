@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SZTF1_feleveshazi/1.0.0": {
+        "runtime": {
+          "SZTF1_feleveshazi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SZTF1_feleveshazi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
